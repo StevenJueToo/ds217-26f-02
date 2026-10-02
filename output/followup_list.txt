@@ -1,0 +1,4 @@
+Cutoff: 165 mmHg
+Reason: The clinic has a limited number of callbacks. We should prioritize those with higher systolic readings.
+P018
+P011
